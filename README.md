@@ -24,9 +24,9 @@ to support data-driven decision-making.
    
 - Certifications
    
-- Salary 
+- Salary
 
-
+  
 **🛠️ Tools & Technologies**
 
 **Python (Pandas, NumPy)** – Data cleaning, preprocessing, and transformation
