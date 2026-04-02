@@ -2,7 +2,7 @@
 This project analyzes 5,000+ Walmart data using MySQL to uncover actionable retail insights. 
 By exploring branch performance, category trends, payment methods, and profitability, 
 to support data-driven decision-making.
-
+<br>
 
 **The Dataset include:**
 
@@ -27,6 +27,7 @@ to support data-driven decision-making.
 - Salary
 
 <br>
+
 **🛠️ Tools & Technologies**
 
 **Python (Pandas, NumPy)** – Data cleaning, preprocessing, and transformation
