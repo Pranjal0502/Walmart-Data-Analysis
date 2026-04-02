@@ -37,6 +37,6 @@ to support data-driven decision-making.
 
 **MySQL** – Data storage, querying, and analysis
 
-**SQL (GROUP BY, JOIN, Aggregations, Window Functions)** – Insight extraction
+**SQL (GROUP BY, RANK, Aggregations, Window Functions)** – Insight extraction
 
 **CSV / Excel** – Raw dataset
