@@ -26,7 +26,7 @@ to support data-driven decision-making.
    
 - Salary
 
-  
+<br>
 **🛠️ Tools & Technologies**
 
 **Python (Pandas, NumPy)** – Data cleaning, preprocessing, and transformation
